@@ -1,4 +1,33 @@
 # Data_machine_learning
+
+##注意##
+由于github某些组件最近被墙，导致图片无法正常加载，请按照如下方式处理：
+
+1、更改hosts文件，添加如下信息，刷新网页即可解决此问题：
+
+>> ```
+>> 52.74.223.119 github.com
+>> 192.30.253.119 gist.github.com
+>> 54.169.195.247 api.github.com
+>> 185.199.111.153 assets-cdn.github.com
+>> 151.101.76.133 raw.githubusercontent.com
+>> 151.101.108.133 user-images.githubusercontent.com
+>> 151.101.76.133 gist.githubusercontent.com
+>> 151.101.76.133 cloud.githubusercontent.com
+>> 151.101.76.133 camo.githubusercontent.com
+>> 52.74.223.119 github.com
+>> 192.30.253.119 gist.github.com
+>> 54.169.195.247 api.github.com
+>> 185.199.111.153 assets-cdn.github.com
+>> 151.101.76.133 raw.githubusercontent.com
+>> 151.101.108.133 user-images.githubusercontent.com
+>> 151.101.76.133 gist.githubusercontent.com
+>> 151.101.76.133 cloud.githubusercontent.com
+>> 151.101.76.133 camo.githubusercontent.com
+>> ```
+
+2、可以将源码图片文件夹中找到相应图片。
+
 2019年CCF智能信用评分大赛个人源码库。包含XGboost模型调参，特征筛选，训练等方案。同时包含stacking模型融合方案
 
 经过xgboost进行特征筛选，特征图如下：
